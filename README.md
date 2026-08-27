@@ -38,4 +38,4 @@ To master core Python concepts required for bioinformatics workflows and 10x Gen
 ### 🚀 How to Use
 Each folder contains `.py` files with commented code for that topic.
 
-Author: **Genomicsnikku** | Aspiring Genomic Data Scientist | Focus: 10x Genomics
+Author: **Genomicsnikku** | Aspiring Genomic Data Scientist | Focus: 10x Genomics & illumina 
